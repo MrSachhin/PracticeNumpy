@@ -35,12 +35,14 @@ a = 5
 # print(np.sort(arrr))   
 # print(min(arrr))
 
-for i in arr3:
-    if a != i :
-       i-=1
+# for i in arr3:
+#     if a != i :
+#        i-=1
        
-    else:
-        print(arr3[i])
+#     else:
+#         print(arr3[i])
+
+print(arr[:4])
     
 
     
